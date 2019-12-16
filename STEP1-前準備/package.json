@@ -1,0 +1,26 @@
+{
+  "name": "@name/jquery-test",
+  "version": "0.1.0",
+  "description": "test module",
+  "keywords": [
+    "test",
+    "jquery-plugin"
+  ],
+  "license": "",
+  "main": "index.js",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
