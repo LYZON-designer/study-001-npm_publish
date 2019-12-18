@@ -1,4 +1,4 @@
 
-# 自作jQueryプラグインをnpmパッケージ化して公開して削除する手順（初心者向け）
+# 自作jQueryプラグインをnpmパッケージ化して公開する手順（テストとCIツールも実施）
 
-このリポジトリは学習用です。内容は[https://www.lyzon.co.jp/blog/2019/20191017_how_to_attach_version_name/](https://www.lyzon.co.jp/blog/2019/20191017_how_to_attach_version_name/)から閲覧できます。
+このリポジトリは学習用です。内容は[https://www.lyzon.co.jp/blog/2019/20191218-npm_package/](https://www.lyzon.co.jp/blog/2019/20191218-npm_package/)から閲覧できます。
